@@ -1,0 +1,10 @@
+@font-face{
+	font-family: 'Open-Sans';
+	font-style: normal;
+	font-weight: normal;
+}
+
+body{ font-size: ;
+-webkit-font-smoothing: antialiased;
+text-rendering: optimizeLegibility;
+background:url(../Obsidian/images/background.jpg); }
